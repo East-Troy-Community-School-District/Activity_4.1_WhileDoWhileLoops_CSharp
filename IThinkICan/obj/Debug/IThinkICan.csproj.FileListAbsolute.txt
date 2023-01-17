@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\IThinkICan\bin\Debug\IThinkICan.exe.config
+C:\Users\Nolan Pawelski\Desktop\IThinkICan\bin\Debug\IThinkICan.exe
+C:\Users\Nolan Pawelski\Desktop\IThinkICan\bin\Debug\IThinkICan.pdb
+C:\Users\Nolan Pawelski\Desktop\IThinkICan\obj\Debug\IThinkICan.csproj.AssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\IThinkICan\obj\Debug\IThinkICan.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\IThinkICan\obj\Debug\IThinkICan.exe
+C:\Users\Nolan Pawelski\Desktop\IThinkICan\obj\Debug\IThinkICan.pdb
