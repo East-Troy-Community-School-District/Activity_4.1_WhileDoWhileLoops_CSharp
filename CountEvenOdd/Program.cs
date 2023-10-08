@@ -1,7 +1,8 @@
 ﻿/*
  * Count Even Odd
- * 1/16/2023
- * C#.NET I
+ * Pawelski
+ * 10/8/2023
+ * Developing Desktop Applications
  * 
  * Instructions:
  * Run the program to familiarize yourself with how it works.

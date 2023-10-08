@@ -1,7 +1,8 @@
 ﻿/*
  * I Think I Can
- * 1/16/2023
- * C#.NET I
+ * Pawelski
+ * 10/8/2023
+ * Developing Desktop Applications
  * 
  * Instrucitons:
  * First, trace the program to predict what it currently does.
