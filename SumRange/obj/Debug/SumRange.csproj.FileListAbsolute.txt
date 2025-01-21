@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\4.1\SumRange\bin\Debug\SumRange.exe.config
+C:\Users\pawel\Desktop\4.1\SumRange\bin\Debug\SumRange.exe
+C:\Users\pawel\Desktop\4.1\SumRange\bin\Debug\SumRange.pdb
+C:\Users\pawel\Desktop\4.1\SumRange\obj\Debug\SumRange.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\4.1\SumRange\obj\Debug\SumRange.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\4.1\SumRange\obj\Debug\SumRange.exe
+C:\Users\pawel\Desktop\4.1\SumRange\obj\Debug\SumRange.pdb
